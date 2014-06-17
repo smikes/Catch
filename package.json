@@ -1,5 +1,5 @@
 {
-  "name": "Catch",
+  "name": "catch",
   "version": "0.0.1",
   "description": "catch C++ unit test framework",
   "main": " ",
@@ -13,7 +13,10 @@
     "type": "git",
     "url": "https://github.com/smikes/Catch.git"
   },
-  "author": "",
+  "author": "philsquared",
+  "contributors": [
+     "sam mikes"
+  ],
   "license": "Boost",
   "bugs": {
     "url": "https://github.com/smikes/Catch/issues"
