@@ -1,6 +1,6 @@
 {
   "name": "catch",
-  "version": "0.0.2",
+  "version": "1.0.48",
   "description": "catch C++ unit test framework",
   "main": "include_dirs.js",
   "directories": {
